@@ -40,9 +40,12 @@ Download source code for Android wallet
 to find more about our Coin API.
 
 # Additional-wallets
-#### *[IOS ](https://apple.co/2ESvYLD)*
-#### *[Android ](http://bit.ly/2Sm4HEt)*
-#### *[Web Wallet ](http://bit.ly/2FIirmS)*
+*[IOS ](https://apple.co/2ESvYLD)<br>* 
+*[Android ](http://bit.ly/2Sm4HEt)<br>*
+*[Web Wallet ](http://bit.ly/2FIirmS)<br>*
+
+
+ <a href="http://bit.ly/2FIirmS" target="_blank">Web Wallet</a>
 
 
 
