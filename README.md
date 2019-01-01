@@ -35,6 +35,7 @@ Download source code for Android wallet
         <p><a href="docs/owc_document.pdf">View PDF</a> to find more about our Coin API.</p>
     </embed>
 </object>
+
 ![ODUWAX Coin!](docs/images/oduwa.png "ODUWAX Coin")
 
 # Additional-wallets
