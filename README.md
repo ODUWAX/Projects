@@ -11,32 +11,38 @@ Curated list of ODUWAX wallets and others
 - [Linux Wallet](#linux-wallet)
 - [Windows Wallet](#windows-wallet)
 - [Android](#android)
-- [ODUWA Coin API DOCS](#api)
+- [ODUWA Coin API DOCS](#oduwa-coin-api-docs)
+- [Additional-wallets](#additional-wallets)
 
 ### Linux Wallet
 
-Download our Linux wallet from <a href="docs/linux-wallet/OduwaCoin-qt-Linux.zip" download> here </a> 
+Download source code for Linux wallet from <a href="docs/linux-wallet/OduwaCoin-qt-Linux.zip" download> here </a> 
 
 ### Windows Wallet
 
-Download our Linux wallet from <a href="docs/windows-wallet/OduwaCoin-qt-windows.zip" download> here </a> 
+Download source code for Windows wallet from <a href="docs/windows-wallet/OduwaCoin-qt-windows.zip" download> here </a> 
 
 ### Android
 
-Download our Linux wallet from <a href="docs/linux-wallet/OduwaCoin-qt-Linux.zip" download> here </a> 
+Download source code for Android wallet 
+
+\* Ver1.1 <a href="docs/android/oduwa-coin-1.1/com.oduwa1.1.apk" download>here</a> 
+
+\* Ver1.2 <a href="docs/android/odwua-coin-1.2/com.oduwa-v1.2.apk" download>here </a> 
 
 ### ODUWA Coin API DOCS
 
 <object data="docs/owc_document.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="docs/owc_document.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{https://github.com/ODUWAX/ODUWAX/raw/master/docs/owc_document.pdf">Download PDF</a>.</p>
+        <p><a href="docs/owc_document.pdf">View PDF</a></p>
     </embed>
 </object>
+to find more about our Coin API.
 
 # Additional-wallets
-#### Ios :       https://apple.co/2ESvYLD
-#### Android:    http://bit.ly/2Sm4HEt
-#### Web Wallet: http://bit.ly/2FIirmS
+#### *[IOS ](https://apple.co/2ESvYLD)*
+#### *[Android ](http://bit.ly/2Sm4HEt)*
+#### *[Web Wallet ](http://bit.ly/2FIirmS)*
 
 
 
