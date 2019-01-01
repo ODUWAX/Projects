@@ -34,18 +34,14 @@ Download source code for Android wallet
 
 <object data="docs/owc_document.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="docs/owc_document.pdf">
-        <p><a href="docs/owc_document.pdf">View PDF</a></p>
+        <p><a href="docs/owc_document.pdf">View PDF</a>to find more about our Coin API.</p>
     </embed>
 </object>
-to find more about our Coin API.
 
 # Additional-wallets
 *[IOS ](https://apple.co/2ESvYLD)<br>* 
 *[Android ](http://bit.ly/2Sm4HEt)<br>*
 *[Web Wallet ](http://bit.ly/2FIirmS)<br>*
-
-
- <a href="http://bit.ly/2FIirmS" target="_blank">Web Wallet</a>
 
 
 
