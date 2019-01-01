@@ -2,8 +2,6 @@
 
 ![ODUWAX!](docs/images/oduwa-coin.png "ODUWAX")
 
-![ODUWAX Coin!](docs/images/oduwa.png "ODUWAX Coin")
-
 Curated list of ODUWAX wallets and others
 
 # Table of Contents
@@ -34,9 +32,10 @@ Download source code for Android wallet
 
 <object data="docs/owc_document.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="docs/owc_document.pdf">
-        <p><a href="docs/owc_document.pdf">View PDF</a>to find more about our Coin API.</p>
+        <p><a href="docs/owc_document.pdf">View PDF</a> to find more about our Coin API.</p>
     </embed>
 </object>
+![ODUWAX Coin!](docs/images/oduwa.png "ODUWAX Coin")
 
 # Additional-wallets
 *[IOS ](https://apple.co/2ESvYLD)<br>* 
