@@ -29,16 +29,14 @@ Download our Linux wallet from <a href="docs/linux-wallet/OduwaCoin-qt-Linux.zip
 
 <object data="docs/owc_document.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="docs/owc_document.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="docs/owc_document.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{https://github.com/ODUWAX/ODUWAX/raw/master/docs/owc_document.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-![ODUWA Coin API DOCS](https://docs.google.com/viewer?url=${https://github.com/ODUWAX/ODUWAX/raw/master/docs/owc_document.pdf})
-
 # Additional-wallets
-# Ios :       https://apple.co/2ESvYLD
-# Android:    http://bit.ly/2Sm4HEt
-# Web Wallet: http://bit.ly/2FIirmS
+#### Ios :       https://apple.co/2ESvYLD
+#### Android:    http://bit.ly/2Sm4HEt
+#### Web Wallet: http://bit.ly/2FIirmS
 
 
 
