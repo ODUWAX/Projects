@@ -46,7 +46,7 @@ Download source code for Android wallet
 
 ### Source-code
 
-- African Digital Currency <a href="docs/source-code/adc/adcwalletsalecontract.sol">(ADC)</a>
+- African Digital Currency <a href="docs/source-code/adc/">(ADC)</a>
 - Cfa Franc Digital Tether <a href="docs/source-code/cdt/contract.sol">(CDT)</a>
 - Ethiopian Birr Digital Tether <a href="docs/source-code/edt/contract.sol">(EDT)</a>
 - Ghanian Cidi Digital Tether <a href="docs/source-code/gdt/contract.sol">(GDT)</a>
