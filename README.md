@@ -11,6 +11,7 @@ Curated list of ODUWAX wallets and others
 - [Android](#android)
 - [ODUWA Coin API DOCS](#oduwa-coin-api-docs)
 - [Additional-wallets](#additional-wallets)
+- [Source Code](#source-code)
 
 ### Linux Wallet
 
@@ -38,11 +39,20 @@ Download source code for Android wallet
 
 ![ODUWAX Coin!](docs/images/oduwa.png "ODUWAX Coin")
 
-# Additional-wallets
+### Additional-wallets
 *[IOS ](https://apple.co/2ESvYLD)<br>* 
 *[Android ](http://bit.ly/2Sm4HEt)<br>*
 *[Web Wallet ](http://bit.ly/2FIirmS)<br>*
 
+### Source-code
+
+- African Digital Currency <a href="docs/source-code/adc/adcwalletsalecontract.sol"> (ADC) </a>
+- Cfa Franc Digital Tether (CDT)
+- Ethiopian Birr Digital Tether (EDT)
+- Ghanian Cidi Digital Tether (GDT)
+- Kenyan Shilling Digital Tether (KDT)
+- Naira Digital Tether (NDT)
+- South African Rand Digital Tether (SDT)
 
 
 
