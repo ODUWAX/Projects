@@ -46,13 +46,10 @@ Download source code for Android wallet
 
 ### Source-code
 
-- African Digital Currency <a href="docs/source-code/adc/adcwalletsalecontract.sol"> (ADC) </a>
-- Cfa Franc Digital Tether (CDT)
-- Ethiopian Birr Digital Tether (EDT)
-- Ghanian Cidi Digital Tether (GDT)
-- Kenyan Shilling Digital Tether (KDT)
-- Naira Digital Tether (NDT)
-- South African Rand Digital Tether (SDT)
-
-
-
+- African Digital Currency <a href="docs/source-code/adc/adcwalletsalecontract.sol">(ADC)</a>
+- Cfa Franc Digital Tether <a href="docs/source-code/cdt/contract.sol">(CDT)</a>
+- Ethiopian Birr Digital Tether <a href="docs/source-code/edt/contract.sol">(EDT)</a>
+- Ghanian Cidi Digital Tether <a href="docs/source-code/gdt/contract.sol">(GDT)</a>
+- Kenyan Shilling Digital Tether <a href="docs/source-code/kdt/contract.sol">(KDT)</a>
+- Naira Digital Tether <a href="docs/source-code/ndt/contract.sol">(NDT)</a>
+- South African Rand Digital Tether <a href="docs/source-code/sdt/contract.sol">(SDT)</a>
