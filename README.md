@@ -37,7 +37,7 @@ Download source code for MacOS wallet from <a href="docs/mac-wallet/OduwaCoin-qt
 
 ### Paper Wallet
 
-Download source code for Paper wallet from <a href="OWC/docs/paper-wallet/paper.zip" download> here </a> 
+Download source code for Paper wallet from <a href="/docs/paper-wallet/paper.zip" download> here </a> 
 
 ### ODUWA Coin API DOCS
 
