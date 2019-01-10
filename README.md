@@ -9,6 +9,8 @@ Curated list of ODUWAX wallets and others
 - [Linux Wallet](#linux-wallet)
 - [Windows Wallet](#windows-wallet)
 - [Android](#android)
+- [MacOS Wallet](#macos-wallet)
+- [Paper Wallet](#paper-wallet)
 - [ODUWA Coin API DOCS](#oduwa-coin-api-docs)
 - [Additional-wallets](#additional-wallets)
 - [Source Code](#source-code)
@@ -28,6 +30,14 @@ Download source code for Android wallet
 \* Ver1.1 <a href="docs/android/oduwa-coin-1.1/com.oduwa1.1.apk" download>here</a> 
 
 \* Ver1.2 <a href="docs/android/odwua-coin-1.2/com.oduwa-v1.2.apk" download>here </a> 
+
+### MacOS Wallet
+
+Download source code for MacOS wallet from <a href="docs/mac-wallet/OduwaCoin-qt-MacOS.zip" download> here </a>
+
+### Paper Wallet
+
+Download source code for Paper wallet from <a href="OWC/docs/paper-wallet/paper.zip" download> here </a> 
 
 ### ODUWA Coin API DOCS
 
