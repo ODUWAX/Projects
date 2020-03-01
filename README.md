@@ -6,7 +6,7 @@ Curated list of ODUWAX wallets and others
 
 # Table of Contents
 
-- [Oduwa Coin Explorer
+- [Oduwa Coin Explorer]
 -[Linux Wallet](#linux-wallet)
 - [Windows Wallet](#windows-wallet)
 - [Android](#android)
@@ -16,7 +16,7 @@ Curated list of ODUWAX wallets and others
 - [Additional-wallets](#additional-wallets)
 - [Other asset](#other-asset)
 
-###Oduwa Coin Explorer
+### Oduwa Coin Explorer
 
 API Documentation : The block explorer provides an API allowing users and/or applications to retrieve information from the network without the need for a local wallet. (http://oduwaexplorer.com/)<br>
 
