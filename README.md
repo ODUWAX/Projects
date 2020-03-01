@@ -6,7 +6,8 @@ Curated list of ODUWAX wallets and others
 
 # Table of Contents
 
-- [Linux Wallet](#linux-wallet)
+- [Oduwa Coin Explorer
+-[Linux Wallet](#linux-wallet)
 - [Windows Wallet](#windows-wallet)
 - [Android](#android)
 - [MacOS Wallet](#macos-wallet)
@@ -14,6 +15,10 @@ Curated list of ODUWAX wallets and others
 - [ODUWA Coin API DOCS](#oduwa-coin-api-docs)
 - [Additional-wallets](#additional-wallets)
 - [Other asset](#other-asset)
+
+###Oduwa Coin Explorer
+
+API Documentation : The block explorer provides an API allowing users and/or applications to retrieve information from the network without the need for a local wallet. (http://oduwaexplorer.com/)<br>
 
 ### Linux Wallet
 
@@ -47,7 +52,7 @@ Download source code for Paper wallet from <a href="/docs/paper-wallet/paper.zip
     </embed>
 </object>
 
-![ODUWAX Coin!](docs/images/oduwa.png "ODUWAX Coin")
+![ODUWAX Coin!](docs/images/oduwa.png "ODUWA Coin")
 
 ### Additional-wallets
 *[IOS ](https://apple.co/2ESvYLD)<br>* 
