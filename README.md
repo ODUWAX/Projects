@@ -2,7 +2,7 @@
 
 ![ODUWACOIN!](docs/images/oduwa-coin.png "ODUWACOIN")
 
-Curated list of ODUWACOIN wallets and others
+Curated list of ODUWA COIN wallets and others
 
 # Table of Contents
 
