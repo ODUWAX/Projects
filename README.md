@@ -6,8 +6,8 @@ Curated list of ODUWAX wallets and others
 
 # Table of Contents
 
-- [Oduwa Coin Explorer]#Oduwa-Coin-Explorer)
--[Linux Wallet](#linux-wallet)
+- [OduwaCoin Explorer](#OduwaCoin-Explorer)
+- [Linux Wallet](#linux-wallet)
 - [Windows Wallet](#windows-wallet)
 - [Android](#android)
 - [MacOS Wallet](#macos-wallet)
