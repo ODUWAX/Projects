@@ -13,7 +13,7 @@ Curated list of ODUWAX wallets and others
 - [Paper Wallet](#paper-wallet)
 - [ODUWA Coin API DOCS](#oduwa-coin-api-docs)
 - [Additional-wallets](#additional-wallets)
-- [Source Code](#source-code)
+- [Other asset](#other-asset)
 
 ### Linux Wallet
 
@@ -54,7 +54,7 @@ Download source code for Paper wallet from <a href="/docs/paper-wallet/paper.zip
 *[Android ](http://bit.ly/2Sm4HEt)<br>*
 *[Web Wallet ](http://bit.ly/2FIirmS)<br>*
 
-### Source-code
+### Other-asset
 
 - African Digital Currency <a href="docs/source-code/adc/">(ADC)</a>
 - Cfa Franc Digital Tether <a href="docs/source-code/cdt/contract.sol">(CDT)</a>
