@@ -1,6 +1,6 @@
-# ODUWAX
+# ODUWACOIN
 
-![ODUWAX!](docs/images/oduwa-coin.png "ODUWAX")
+![ODUWACOIN!](docs/images/oduwa-coin.png "ODUWACOIN")
 
 Curated list of ODUWAX wallets and others
 
